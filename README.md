@@ -7,6 +7,7 @@ As a self-taught developer, early in my career: **I am still learning**. I am by
 
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Web Development using BLAZOR WEBASSEMBLY! | Let's Build Flappy Bird WITHOUT JAVASCRIPT! (PART 1)](https://www.youtube.com/watch?v=wTmZCu16LNU)
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
