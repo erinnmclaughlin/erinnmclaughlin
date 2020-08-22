@@ -1,5 +1,5 @@
 
-<img width="100%" src="ezgif.com-crop.gif" />
+<img width="100%" src="images/intro.gif" />
 
 Hi, I'm Erin. I make **C#** and **Blazor** related content on my [YouTube channel](https://www.youtube.com/channel/UCy4M_NlMdP7a2TK2PNQioXQ), and on my [website](https://erinnmclaughlin). My goal is to help bridge the gap between "learning" and "doing" by building applications that help demonstrate different topics within C# and .NET programming. 
 
