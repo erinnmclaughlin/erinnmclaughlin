@@ -5,6 +5,9 @@ Hi, I'm Erin. I make **C#** and **Blazor** related content on my [YouTube channe
 
 As a self-taught developer, early in my career: **I am still learning**. I am by no means an expert in the field of .NET development. But because of this, it is fresh in my mind how hard it can be to conquer the initial learning curve and start translating concepts and ideas into real-world applications. Now that I finally feel that I have a grasp on the .NET landspace, I want to help others who were in my position by offering content that I feel would have been helpful to me when I was first starting out.
 
+### :tv: Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### Connect with me:
 
