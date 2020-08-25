@@ -2,7 +2,7 @@
 
 ## :wave: Hi, I'm Erin!
 
-I make **C#** and **.NET Core** related content on my [YouTube channel](https://www.youtube.com/c/erinmclaughlin), and on my [website](https://erinnmclaughlin). My goal is to help bridge the gap between "learning" and "doing" by building [demo applications](https://github.com/blazorbuilds) that are fun and interesting while also demonstrating important concepts within C# and .NET programming. 
+I make **C#** and **.NET Core** related content on my [YouTube channel](https://www.youtube.com/c/erinmclaughlin). My goal is to help bridge the gap between "learning" and "doing" by building [demo applications](https://github.com/blazorbuilds) that are fun and interesting while also demonstrating important concepts within C# and .NET programming. 
 
 As a self-taught developer still early in my career: **I am still learning**, and I am by **no means** a .NET expert. I know how difficult it can be to overcome the initial learning curve and start translating concepts and ideas into real-world applications. Because of this, I wanted to create a resource that I feel would have been helpful to me when I was first starting out. The projects that I will be building will (hopefully) provide benefit to those who are looking to get into .NET development, as well as provide an excuse for me to continue improving my own skillset. :sunglasses:
 
