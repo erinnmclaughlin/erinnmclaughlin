@@ -1,4 +1,4 @@
-<img width="100%" src="images/intro.gif" />
+<a href="https://www.youtube.com/c/erinnmclaughlin"><img width="100%" src="images/intro.gif" /></a>
 
 ## :wave: Hi, I'm Erin!
 
