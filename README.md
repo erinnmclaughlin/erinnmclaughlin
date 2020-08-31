@@ -18,6 +18,7 @@ As always, constuctive feedback is welcomed and encouraged! And thanks for visit
 
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LEARN BLAZOR WEBASSEMBLY! | Let's Build Flappy Bird (Part 3)](https://www.youtube.com/watch?v=DfJ5HVrWhnM)
 - [Learn #BLAZOR WEBASSEMBLY! | Let's Build Flappy Bird WITHOUT JAVASCRIPT! (Part 2)](https://www.youtube.com/watch?v=QHBFd6TCFR4)
 - [Web Development using BLAZOR WEBASSEMBLY! | Let's Build Flappy Bird WITHOUT JAVASCRIPT! (PART 1)](https://www.youtube.com/watch?v=wTmZCu16LNU)
 <!-- YOUTUBE:END -->
