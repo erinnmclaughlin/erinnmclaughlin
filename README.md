@@ -6,7 +6,7 @@ I make **C#** and **.NET Core** related content on my [YouTube channel](https://
 
 As a self-taught developer still early in my career: **I am still learning**, and I am by **no means** a .NET expert. I know how difficult it can be to overcome the initial learning curve and start translating concepts and ideas into real-world applications. Because of this, I wanted to create a resource that I feel would have been helpful to me when I was first starting out. The projects that I will be building will (hopefully) provide benefit to those who are looking to get into .NET development, as well as provide an excuse for me to continue improving my own skillset. :sunglasses:
 
-As always, constuctive feedback is welcomed and encouraged! And thanks for visiting!
+As always, constructive feedback is welcomed and encouraged! And thanks for visiting!
 
 <hr />
 
