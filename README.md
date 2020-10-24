@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/c/erinnmclaughlin"><img width="100%" src="https://github.com/erinnmclaughlin/erinnmclaughlin/blob/master/images/intro.gif" /></a>
+<!-- <a href="https://www.youtube.com/c/erinnmclaughlin"><img width="100%" src="https://github.com/erinnmclaughlin/erinnmclaughlin/blob/master/images/intro.gif" /></a> -->
 
 ## :wave: Hi, I'm Erin!
 
