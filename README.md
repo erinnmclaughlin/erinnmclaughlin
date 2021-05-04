@@ -13,8 +13,8 @@ As always, constructive feedback is welcomed and encouraged! And thanks for visi
 ### :iphone: Connect with Me!
 **YouTube:** &nbsp; https://youtube.com/c/erinmclaughlin <br/>
 **Website:** &nbsp;&nbsp; https://erinnmclaughlin.com <br />
-**Instagram:** https://www.instagram.com/thecodebug/ <br />
-**Twitter:** &nbsp;&nbsp;&nbsp;&nbsp; https://twitter.com/TheCodeBug1
+<!-- **Instagram:** https://www.instagram.com/thecodebug/ <br />
+**Twitter:** &nbsp;&nbsp;&nbsp;&nbsp; https://twitter.com/TheCodeBug1 -->
 
 ### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
