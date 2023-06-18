@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://github.com/erinnmclaughlin/erinnmclaughlin/assets/22223146/4429e53e-8f00-4b2f-a9db-84a97e2d7469" height="350" />
+        <img src="https://github.com/erinnmclaughlin/erinnmclaughlin/assets/22223146/4429e53e-8f00-4b2f-a9db-84a97e2d7469" height="400" />
       </td>
     </tr>
     <tr>
