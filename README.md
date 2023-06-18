@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <table>
     <tbody>
       <tr>
