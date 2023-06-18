@@ -3,7 +3,7 @@
     <tbody>
       <tr>
         <td rowspan="5">
-          <img src="https://github.com/erinnmclaughlin/erinnmclaughlin/assets/22223146/4429e53e-8f00-4b2f-a9db-84a97e2d7469" height="450" />
+          <img src="https://github.com/erinnmclaughlin/erinnmclaughlin/assets/22223146/1a081ecf-6ded-4bc2-8383-4394ce6f1256" height="450" />
         </td>
       </tr>
       <tr>
@@ -25,3 +25,4 @@
     </tbody>
   </table>
 </div>
+
