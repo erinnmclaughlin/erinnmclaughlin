@@ -6,8 +6,8 @@
 <h2>Things I Code Wtih</h2>
   
 <picture>
-  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
+  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&card_width=400px" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000&card_width=400px" />
 </picture>
 
 <div>
