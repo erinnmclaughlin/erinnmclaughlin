@@ -34,10 +34,6 @@
 
 ### Where to Find Me
 <p>
-  <a href="https://github.com/erinnmclaughlin">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/e1mclaughlin">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&logoColor=white" />
-  </a>
+  <a href="https://github.com/erinnmclaughlin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&logoColor=white" /></a>
 </p>
