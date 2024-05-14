@@ -18,6 +18,7 @@
   <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-000000?logo=Gitlab&style=for-the-badge&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&style=for-the-badge&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&style=for-the-badge&logoColor=black" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?logo=npm&style=for-the-badge&logoColor=white" />
   <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=NuGet&style=for-the-badge&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=OpenAI&style=for-the-badge&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=PostgreSQL&style=for-the-badge&logoColor=white" />
