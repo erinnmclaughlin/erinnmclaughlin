@@ -20,6 +20,7 @@
   <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-fc6d26?logo=Gitlab&style=flat-square&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&style=flat-square&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&style=flat-square&logoColor=black" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=JSON&style=flat-square&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?logo=npm&style=flat-square&logoColor=white" />
   <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=NuGet&style=flat-square&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=OpenAI&style=flat-square&logoColor=white" />
