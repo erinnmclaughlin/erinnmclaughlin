@@ -32,6 +32,7 @@
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&style=flat-square&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&style=flat-square&logoColor=black" />
     <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=JSON&style=flat-square&logoColor=white" />
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=Markdown&style=flat-square&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?logo=npm&style=flat-square&logoColor=white" />
     <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=NuGet&style=flat-square&logoColor=white" />
     <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=OpenAI&style=flat-square&logoColor=white" />
@@ -42,6 +43,8 @@
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57?logo=SQLite&style=flat-square&logoColor=white" />
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85ea2d?logo=Swagger&style=flat-square&logoColor=black" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?logo=Tailwind%20CSS&style=flat-square&logoColor=white" />
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91?logo=Visual%20Studio&style=flat-square&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&style=flat-square&logoColor=white" />
   </p>
 </div>
 
