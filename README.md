@@ -23,9 +23,11 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?logo=npm&style=flat-square&logoColor=white" />
   <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=NuGet&style=flat-square&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=OpenAI&style=flat-square&logoColor=white" />
+  <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6ba539?logo=OpenAPI&style=flat-square&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=PostgreSQL&style=flat-square&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391fe?logo=Powershell&style=flat-square&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57?logo=SQLite&style=flat-square&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85ea2d?logo=Swagger&style=flat-square&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?logo=Tailwind%20CSS&style=flat-square&logoColor=white" />
 </p>
 
