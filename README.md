@@ -5,8 +5,6 @@
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
 </picture>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&layout=compact" />-->
-
 <div>
   <h3>Things I Code Wtih</h3>
   <p>
@@ -42,7 +40,6 @@
   </p>
 </div>
 
-
 <div>
   <h3>Where to Find Me</h3>
   <p>
@@ -50,3 +47,10 @@
     <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&logoColor=white" /></a>
   </p>
 </div>
+
+<!-- GitHub Stats
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=erinnmclaughlin&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erinnmclaughlin&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
+</picture>
+-->
