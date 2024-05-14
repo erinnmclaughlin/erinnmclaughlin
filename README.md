@@ -4,6 +4,7 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?logo=.NET&style=for-the-badge&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078d4?logo=Microsoft%20Azure&style=for-the-badge&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=Azure%20DevOps&style=for-the-badge&logoColor=white" />
+  <img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-2560e0?logo=Azure%20Pipelines&style=for-the-badge&logoColor=white" />
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512bd4?logo=.NET&style=for-the-badge&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?logo=Bootstrap&style=for-the-badge&logoColor=white" />
   <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00d1b2?logo=Bulma&style=for-the-badge&logoColor=white" />
