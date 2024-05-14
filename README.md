@@ -1,4 +1,7 @@
-# :wave: Hey, I'm Erin!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+  <img src="header-light.svg"/>
+</picture>
 
 <picture>
   <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
