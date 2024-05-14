@@ -17,7 +17,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=GitHub%20Actions&style=flat-square&logoColor=white" />
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=GitHub%20Copilot&style=flat-square&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-000000?logo=Gitlab&style=flat-square&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-fc6d26?logo=Gitlab&style=flat-square&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&style=flat-square&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&style=flat-square&logoColor=black" />
   <img alt="npm" src="https://img.shields.io/badge/npm-cb3837?logo=npm&style=flat-square&logoColor=white" />
