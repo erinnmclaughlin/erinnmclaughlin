@@ -11,7 +11,6 @@
 </picture>
 
 <div>
-  <br/>
   <p>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?logo=.NET&style=flat-square&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/Azure-0078d4?logo=Microsoft%20Azure&style=flat-square&logoColor=white" />
