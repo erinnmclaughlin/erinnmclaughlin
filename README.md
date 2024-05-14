@@ -3,13 +3,14 @@
   <img src="header-light.svg"/>
 </picture>
 
+<h2>Things I Code Wtih</h2>
+  
 <picture>
   <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
 </picture>
 
 <div>
-  <h3>Things I Code Wtih</h3>
   <p>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?logo=.NET&style=flat-square&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/Azure-0078d4?logo=Microsoft%20Azure&style=flat-square&logoColor=white" />
@@ -43,13 +44,21 @@
   </p>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=erinnmclaughlin&theme=github-dark&hide_border=true&custom_title=Recent%20Contribution%20History&title_color=ffffff&line=ffffff&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erinnmclaughlin&theme=minimal&hide_border=true&custom_title=Recent%20Contribution%20History" />
+</picture>
+
+<br />
+
 <div>
-  <h3>Where to Find Me</h3>
+  <h2>Where to Find Me</h2>
   <p>
-    <a href="https://github.com/erinnmclaughlin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=flat-square&logoColor=white" /></a>
+    <a href="https://github.com/erinnmclaughlin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=for-the-badge&logoColor=white" /></a>
   </p>
 </div>
+
 
 <!-- GitHub Stats
 <picture>
