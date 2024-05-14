@@ -50,7 +50,7 @@
 
 <!-- GitHub Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=erinnmclaughlin&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=erinnmclaughlin&show_icons=true&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffffff&card_width=1012px&include_all_commits=true" media="(prefers-color-scheme: dark)" />
   <img src="https://github-readme-stats.vercel.app/api?username=erinnmclaughlin&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
 </picture>
 -->
