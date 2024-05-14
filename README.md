@@ -1,4 +1,4 @@
-### :wave: Hey, I'm Erin!
+# :wave: Hey, I'm Erin!
 
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?logo=.NET&style=for-the-badge&logoColor=white" />
