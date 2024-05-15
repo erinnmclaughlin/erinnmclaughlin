@@ -17,6 +17,7 @@
   </picture>
   
   <div>
+    <br/>
     <p>
       <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?logo=.NET&style=flat-square&logoColor=white" />
       <img alt="Azure" src="https://img.shields.io/badge/Azure-0078d4?logo=Microsoft%20Azure&style=flat-square&logoColor=white" />
@@ -52,7 +53,6 @@
       <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91?logo=Visual%20Studio&style=flat-square&logoColor=white" />
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&style=flat-square&logoColor=white" />
     </p>
-    <br/>
   </div>
 
 </div>
