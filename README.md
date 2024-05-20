@@ -12,7 +12,7 @@
   
 <picture>
   <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffffff&card_width=400px" />
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&theme=transparent&border_color=30363d&title_color=000000&text_color=000000&card_width=400px" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&theme=transparent&border_color=d0d7de&title_color=000000&text_color=000000&card_width=400px" />
 </picture>
 
 <p align="left">
@@ -26,12 +26,12 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-512bd4?logo=C%23&style=flat-square&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&style=flat-square&logoColor=white" />
   <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-538dd7?logo=Font%20Awesome&style=flat-square&logoColor=white" />
-  <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285f4?logo=Google%20Apps%20Script&style=flat-square&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?logo=Git&style=flat-square&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?logo=GitHub%20Actions&style=flat-square&logoColor=white" />
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=GitHub%20Copilot&style=flat-square&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/Gitlab-fc6d26?logo=Gitlab&style=flat-square&logoColor=white" />
+  <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285f4?logo=Google%20Apps%20Script&style=flat-square&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&style=flat-square&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&style=flat-square&logoColor=black" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=JSON&style=flat-square&logoColor=white" />
