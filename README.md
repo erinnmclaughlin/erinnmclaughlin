@@ -58,6 +58,7 @@
   <p>
     <a href="https://github.com/erinnmclaughlin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.nuget.org/profiles/erinnmclaughlin"><img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?logo=NuGet&style=for-the-badge&logoColor=white"/></a>
   </p>
 </div>
 
