@@ -2,11 +2,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
   <img src="header-light.svg"/>
 </picture>
-
+<!--
 <picture>
   <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=erinnmclaughlin&theme=github-dark&hide_border=true&custom_title=Recent%20Contribution%20History&title_color=ffffff&line=ffffff&area=true" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=erinnmclaughlin&theme=minimal&hide_border=true&custom_title=Recent%20Contribution%20History" />
-</picture>
+</picture>-->
 
 <h2>Things I Code With</h2>
   
