@@ -8,8 +8,6 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=erinnmclaughlin&theme=minimal&hide_border=true&custom_title=Recent%20Contribution%20History" />
 </picture>-->
 
-<h2>Things I Code With</h2>
-  
 <picture>
   <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=erinnmclaughlin&theme=transparent&border_color=30363d&title_color=ffffff&text_color=ffffff&card_width=400px" />
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinnmclaughlin&theme=transparent&border_color=d0d7de&title_color=000000&text_color=000000&card_width=400px" />
@@ -54,7 +52,7 @@
 <br clear="both" />
 
 <div>
-  <h2>Where to Find Me</h2>
+  <h2>Find me in other places!</h2>
   <p>
     <a href="https://github.com/erinnmclaughlin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/e1mclaughlin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&style=for-the-badge&logoColor=white" /></a>
